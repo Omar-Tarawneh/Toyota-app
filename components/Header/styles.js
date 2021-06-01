@@ -12,8 +12,9 @@ const styles = StyleSheet.create({
   },
   logo: {
     width: 100,
-    height: 20,
+    height: 100,
     resizeMode: 'contain',
+    bottom: 25
   },
   menu: {
     width: 25,
