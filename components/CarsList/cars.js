@@ -1,20 +1,17 @@
 export default [{
-  name: 'Model S',
-  tagline: 'Starting at $69,420',
-  image: require('../../assets/images/ModelS.jpeg'),
+  name: 'RAV4',
+  tagline: 'Starting at $26,250',
+  image: require('../../assets/images/RAV_MY19_0041_V001-1.jpg'),
 }, {
-  name: 'Model 3',
-  tagline: 'Order Online for',
-  taglineCTA: 'Touchless Delivery',
-  image: require('../../assets/images/Model3.jpeg'),
+  name: 'PRIUS PRIME',
+  tagline: 'Starting at $28,220',
+  image: require('../../assets/images/PRP_MY20_0015_V001.jpg'),
 }, {
-  name: 'Model X',
-  tagline: 'Order Online for',
-  taglineCTA: 'Touchless Delivery',
-  image: require('../../assets/images/ModelX.jpeg'),
+  name: 'COROLLA',
+  tagline: 'Starting at $20,715',
+  image: require('../../assets/images/CHB_MY19_0010_V001-1.jpg'),
 }, {
-  name: 'Model Y',
-  tagline: 'Order Online for',
-  taglineCTA: 'Touchless Delivery',
-  image: require('../../assets/images/ModelY.jpeg'),
+  name: 'AVALON HYBRID',
+  tagline: 'Starting at $37,100',
+  image: require('../../assets/images/AVA_MY21_0002_V002-1.jpg'),
 }];
