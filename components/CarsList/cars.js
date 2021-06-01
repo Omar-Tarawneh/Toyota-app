@@ -1,7 +1,7 @@
 export default [{
-  name: 'Model S',
-  tagline: 'Starting at $69,420',
-  image: require('../../assets/images/ModelS.jpeg'),
+  name: 'RAV4',
+  tagline: 'Starting at $26,250',
+  image: require('../../assets/images/RAV_MY19_0041_V001.jpg'),
 }, {
   name: 'Model 3',
   tagline: 'Order Online for',
